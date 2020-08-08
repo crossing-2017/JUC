@@ -9,6 +9,8 @@ import java.util.concurrent.RecursiveTask;
  * @author Crossing
  * @Date 2020-08-09
  * <p>
+ * 1-100用Fork、Join拆分计算
+ * <p>
  * 分支合并框架 ForkJoinPool ForkJoinTask RecursiveTask
  */
 public class ForkJoinDemo {
