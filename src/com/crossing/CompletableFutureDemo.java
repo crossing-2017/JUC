@@ -6,6 +6,8 @@ import java.util.concurrent.ExecutionException;
 /**
  * @author Crossing
  * @Date 2020-08-09
+ * <p>
+ * 异步回调CompletableFuture的Demo
  */
 public class CompletableFutureDemo {
 
